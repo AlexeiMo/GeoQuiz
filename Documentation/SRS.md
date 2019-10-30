@@ -70,6 +70,7 @@ Binary field - learning binary(BF-LB)
 Одиночная игра  
 ![Одиночная игра](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Mockups/SingleGameRound.png)
 ![Одиночная игра](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Mockups/RightAnswer.png)
+
 Выбор игровой комнаты при игре по локальной сети    
 ![Выбор игровой комнаты при игре по локальной сети](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Mockups/LANGameRooms.png)  
 Игра по локальной сети  
