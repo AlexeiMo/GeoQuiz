@@ -9,7 +9,7 @@
 ## 1.1 Начать игру  
 ![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Sequence/SingleplayerSeq.png)
 ## 1.2 Многопользовательская игра 
-![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Sequence/MulptiplayerSeq.png)
+![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Sequence/MultiplayerSeq.png)
 ## 1.3 Просмотреть статистику
 ![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Sequence/StatisticsSeq.png)
 ## 1.4 Выйти из игры
