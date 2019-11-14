@@ -7,7 +7,7 @@
 ![Диаграмма классов](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/DCC/ClassDiagram.png)
 
 # 2 Диаграмма развёртывания
-![Диаграмма развёртывания](https://github.com/RuslanGitelman/GeoQuiz/SPoH/blob/master/Diagrams/DCC/Deployment.png)
+![Диаграмма развёртывания](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/DCC/Deployment.png)
 
 # 3 Диаграмма компонентов
 ![Диаграмма развёртывания](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/DCC/ComponentUpd.png)
