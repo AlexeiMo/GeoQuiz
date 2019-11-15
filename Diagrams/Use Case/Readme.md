@@ -7,7 +7,7 @@
 1.2.3 [Статистика](#123-Statistics)  
 1.2.4 [Выход из игры](#124-Выход-из-игры)   
 # 1. Диаграмма вариантов использования 
-![Диаграмма-вариантов использования](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Use%20Case/UseCase.png) 
+![Диаграмма-вариантов использования](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Use%20Case/UseCaseUpd.png) 
 ## 1.1 Актёры 
   Игрок - человек, который принимает участие в игровом процессе  
 
