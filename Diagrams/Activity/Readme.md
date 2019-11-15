@@ -21,7 +21,7 @@
 
 Если игрок нажимает кнопку "Statistics" - откроется статистика игрока. 
 
-![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Activity/Statistics.png)
+![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Activity/StatisticsUpd.png)
 
 ## 1.4 Выйти из игры
 
