@@ -9,13 +9,13 @@
 ## 1.1 Начать одиночную игру  
 
 Если игрок нажимает кнопку "Single quiz" - начнётся новая игра.  
-![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Activity/Singleplayer.png)
+![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Activity/SingleplayerUpd.png)
 
 ## 1.2 Начать многопользовательскую игру  
 
 Если игрок нажимает кнопку "Quiz with opponent" с включенным интернетом, то откроется меню, в котором можно выйти в главное меню, создать или присоединиться к игровой комнате, если она уже создана. После создания игровой комнаты и успешного подключения к ней оппонента или присоединения к игровой комнате оппонента, начнётся игровой процесс.
 
-![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Activity/Multiplayer.png)
+![](https://github.com/RuslanGitelman/GeoQuiz/blob/master/Diagrams/Activity/MultiplayerUpd.png)
 
 ## 1.3 Просмотреть статистику  
 
