@@ -1,0 +1,76 @@
+
+texture.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+down
+  rotate: false
+  xy: 2, 2
+  size: 86, 149
+  orig: 86, 149
+  offset: 0, 0
+  index: -1
+longpressed
+  rotate: false
+  xy: 2, 421
+  size: 960, 268
+  orig: 960, 268
+  offset: 0, 0
+  index: -1
+longunpressed
+  rotate: false
+  xy: 2, 153
+  size: 934, 266
+  orig: 934, 266
+  offset: 0, 0
+  index: -1
+pressed
+  rotate: false
+  xy: 938, 185
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
+rightAnswer
+  rotate: false
+  xy: 964, 691
+  size: 960, 268
+  orig: 960, 268
+  offset: 0, 0
+  index: -1
+shortpressed
+  rotate: false
+  xy: 964, 439
+  size: 410, 250
+  orig: 410, 250
+  offset: 0, 0
+  index: -1
+shortunpressed
+  rotate: false
+  xy: 1376, 439
+  size: 408, 250
+  orig: 408, 250
+  offset: 0, 0
+  index: -1
+unpressed
+  rotate: false
+  xy: 1786, 455
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 1926, 818
+  size: 92, 141
+  orig: 92, 141
+  offset: 0, 0
+  index: -1
+wrongAnswer
+  rotate: false
+  xy: 2, 691
+  size: 960, 268
+  orig: 960, 268
+  offset: 0, 0
+  index: -1
